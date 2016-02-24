@@ -18,4 +18,4 @@ pour activer le framework manquant.
 ## L'application d'inventaire
 
 L'application utilise un CRUD avec une table pour inventorier des équipements réseau, pour simuler
-un petit espace web pour une consultation sous condition d'être authentifié.
+un petit espace web pour une consultation, sous la condition d'être authentifié.
